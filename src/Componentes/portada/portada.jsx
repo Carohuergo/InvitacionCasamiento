@@ -1,5 +1,3 @@
-
-import { useState } from "react";
 import { } from "../estilosInvitaciones.css"
 import { ParallaxBanner} from "react-scroll-parallax"
 

@@ -17,11 +17,17 @@ export const Portada = () => {
       
         <div style={{ position:"absolute", display:"flex", justifyContent:"flex-end", alignItems:"center", flexDirection:"column"}} className="absolute inset-0 flex items-center justify-center">
           <div className="fondoTitulo">
-          <h1 className="text-8xl text-6xl text-white font-thin ">Gero & Caro</h1>
-          <h2 className=" text-white font-thin ">26-08-2023</h2>
+          <h1 className="text-8xl text-6xl text-white font-thin ">GERO & CARO</h1>
+          <h2 className=" text-white font-thin ">26.08.2023</h2>
           </div>
+          
         </div>
+        
       </ParallaxBanner>
+      
+   
+      
+      
       </section>
       </>
       

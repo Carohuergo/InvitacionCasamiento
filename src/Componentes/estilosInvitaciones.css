@@ -1,7 +1,7 @@
 .portadaFondo {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     aspect-ratio: 2/1;
-    height: 100vh;
+    height: 600px;
 }
 .inset-0 {
   bottom: 0;
@@ -13,10 +13,12 @@
   color: white;
   width: 100%;
   text-align: center;
+  
  
 }
 .font-thin {
-  font-weight: 300;
+  font-weight: 200;
+  letter-spacing: .3rem
 }
 .text-6xl {
   font-size: 3.75rem;
@@ -25,9 +27,9 @@
   text-align: center;
 }
 .fondoTitulo {
-  background-color: #ebebde61;
+  background-color: #18171e75;;
   width: 100%;
-  margin:2rem
+  margin:2rem;
 }
 
 
@@ -395,7 +397,9 @@ section.footer a{
 
 @media (max-width: 760px) {
 
-
+  .portadaFondo {
+    height: 500px;
+}
 
   .logo-portada{
     text-align: center;

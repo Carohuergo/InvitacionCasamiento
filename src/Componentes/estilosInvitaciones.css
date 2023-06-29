@@ -370,22 +370,22 @@ section.gracias p{
 
 /* FOOTER */
 
-section.footer{
+div.footer{
   text-align: center;
   padding: 20px 0;
-  background-color: #666;
+  background-color: #464545;
 }
 
-section.footer p{
+div.footer p{
   text-align: center;
   color: white;
-  font-size: 12px;
+  font-size: 8px;
   font-style: italic;
   margin: 0;
   padding: 0;
 }
 
-section.footer a{
+div.footer a{
   color: white;
 }
 

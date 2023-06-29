@@ -17,7 +17,7 @@ export const Informacion = () => {
                         <p>26 de Agosto a las 16:30 horas en la Capilla Santa Teresita.</p>
                         <p> Golf Club Golfers 2911, Garin, Buenos Aires. </p>
                         <p>No llegues tarde! La novia es muy puntual!</p>
-                        <a target="_blank" href="https://goo.gl/maps/JJSDDcMjrenVqJou8">
+                        <a target="_blank" rel="noopener noreferrer" href="https://goo.gl/maps/JJSDDcMjrenVqJou8">
                             <Button className="btn">LLEGAR A LA CEREMONIA</Button>
                         </a>
                     </div>
@@ -29,7 +29,7 @@ export const Informacion = () => {
                         <p>Te esperamos despues de la ceremonia en Arena Golf.</p>
                         <p>Av. Olivos 3215, Tortuguitas.</p>
                         <p>¡A dejar TODO!</p>
-                        <a target="_blank" href="https://goo.gl/maps/aDbaVbqfjTau34u87">
+                        <a target="_blank" rel="noopener noreferrer" href="https://goo.gl/maps/aDbaVbqfjTau34u87">
                             <Button className="btn">LLEGAR A LA FIESTA</Button>
                         </a>
                     </div>

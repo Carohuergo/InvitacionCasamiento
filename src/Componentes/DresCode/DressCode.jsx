@@ -7,7 +7,7 @@ export const DressCode = () => {
   <div class="container">
 
     <h4>DRESS CODE</h4>
-    <p>Formal / Elegante. Tirate todos los brillos...</p>
+    <p>Formal / Elegante.</p>
   
 
   

@@ -2,6 +2,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     aspect-ratio: 2/1;
     height: 600px;
+    
 }
 .inset-0 {
   bottom: 0;
@@ -33,10 +34,11 @@
 }
 
 
+/* SECCCION REGALO */
 
 section.frase{
     text-align: center;
-    background-color:rgb(157, 194, 182);
+    background-color:rgb(62, 92, 118);
     padding:50px 0px 70px 0px;
    
   }
@@ -94,28 +96,28 @@ section.frase{
   .btn{
     font-family: 'Montserrat', sans-serif;
     color:white;
-    background-color:  #8ab7b8;
+    background-color:  #86aed1;
     border-radius: 30px;
     padding: 10px 40px;
-    border: 1px solid  #8ab7b8;
+    border: 1px solid  #86aed1;
     text-transform: uppercase;
   }
   
   .btn:hover{
-    color: #8ab7b8;
+    color: #86aed1;
     background-color: white;
-    border: 1px solid  #8ab7b8;
+    border: 1px solid  #86aed1;
   }
   
   .btn-alt{
-    color:  rgb(157, 194, 182);
+    color: #86aed1;
     background-color: white;
     margin-top: 2rem;
   }
   
   .btn-alt:hover{
     color: white;
-    background-color:  rgb(157, 194, 182);
+    background-color:  #99bad7;
     border: 1px solid white;
   }
   
@@ -229,12 +231,12 @@ section.frase{
 
 
 
-/* Lista de regalos */
+/* BIENVENIDA */
 
 section.cbu{
   text-align: center;
   padding: 50px 0;
-  background-color:rgb(157, 194, 182);
+  background-color:rgb(116, 140, 171);
   
 }
 
@@ -293,7 +295,7 @@ section.confirmar-asistencia .btn-alt{
 section.dresscode{
   text-align: center;
   padding: 70px 0 70px;
-  background-color: rgb(157 194 182 / 46%);
+  background-color: rgb(200, 208, 219);
 }
 
 section.dresscode h4 {
@@ -352,7 +354,7 @@ section.canciones p{
 section.gracias{
   text-align: center;
   padding: 50px 0;
-  background-color:#5d7e7e;;
+  background-color:rgb(29, 45, 68);
 }
 
 section.gracias p{
@@ -373,12 +375,12 @@ section.gracias p{
 div.footer{
   text-align: center;
   padding: 20px 0;
-  background-color: #464545;
+  background-color: #e4dddd;
 }
 
 div.footer p{
   text-align: center;
-  color: white;
+  color: black;
   font-size: 8px;
   font-style: italic;
   margin: 0;

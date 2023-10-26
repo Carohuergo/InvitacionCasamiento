@@ -12,7 +12,7 @@ export const Informacion = () => {
             <div className="container">
                 <Row style={{justifyContent:"center"}}>
                     <div className="col-md-6 columna">
-                        <img style={{ height: "15rem" }} src="https://agendalafecha.com/demolepou/assets/img/icono-ceremonia.svg" alt="" className="icon"></img>
+                        <img style={{ height: "12rem" }} src="https://agendalafecha.com/demolepou/assets/img/icono-ceremonia.svg" alt="" className="icon"></img>
                         <h4>Ceremonia y Fiesta</h4>
                         <p>9 de Diciembre a las 18:30 horas en Rut Haus.</p>
                         <p> Av. Int. Cantilo 1429, CABA. </p>

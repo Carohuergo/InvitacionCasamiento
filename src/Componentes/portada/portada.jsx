@@ -10,7 +10,7 @@ export const Portada = () => {
       <> 
       <section>
       <ParallaxBanner
-        layers={[{ image: 'https://firebasestorage.googleapis.com/v0/b/ecommerce-carolahome.appspot.com/o/ellos8-PhotoRoom.jpg?alt=media&token=1e6acb5a-2152-4f9f-81f0-990742a59624&_gl=1*12qkfp9*_ga*MTQ0NDI2MTgwMi4xNjg0ODc5MjE5*_ga_CW55HF8NVT*MTY5Nzk4NjA0NC4yMS4xLjE2OTc5ODYwODIuMjIuMC4w', speed: -20,}]}
+        layers={[{ image: 'https://firebasestorage.googleapis.com/v0/b/ecommerce-carolahome.appspot.com/o/fondocorrecciones.jpg?alt=media&token=a536c7cc-a031-4e3e-a852-a4cdd5d5da5f&_gl=1*1vxnfbh*_ga*MTQ0NDI2MTgwMi4xNjg0ODc5MjE5*_ga_CW55HF8NVT*MTY5ODM2MDY5Mi4yMi4xLjE2OTgzNjA4NjkuMy4wLjA.', speed: -20,}]}
         className="portadaFondo"
         
       >

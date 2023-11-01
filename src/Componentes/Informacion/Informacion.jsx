@@ -16,7 +16,7 @@ export const Informacion = () => {
                         <h4>Ceremonia y Fiesta</h4>
                         <p>9 de Diciembre a las 18:30 horas en Rut Haus.</p>
                         <p> Av. Int. Cantilo 1429, CABA. </p>
-                        <p>No llegues tarde! No queremos empenzar sin vos!</p>
+                        <p>No llegues tarde! No queremos empezar sin vos!</p>
                         <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/vT6Rp5kWTjxu4DdV8">
                             <Button className="btn">LLEGAR A LA CEREMONIA</Button>
                         </a>

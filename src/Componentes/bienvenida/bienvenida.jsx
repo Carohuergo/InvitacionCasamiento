@@ -13,7 +13,7 @@ export const Bienvenida = () => {
             <p>Y queremos compartir este día con vos. </p>
             <p>Te dejamos toda la información de nuestro casamiento, para que nos acompañes en este gran día.</p>
             <p>* * * * * *</p>
-            <p>  ¡¡¡Nos costó mucho lograr esta conga asique no se va nadie hasta que no nos vamos nosotros!!! </p>
+            <p>  ¡¡¡Nos costó mucho lograr esta conga así que no se va nadie hasta que no nos vamos nosotros!!! </p>
             
 
         </Container>
